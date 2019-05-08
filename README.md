@@ -10,4 +10,4 @@ These repository contains all of my work that I did for ixd 103 over the past se
   
 # Webiste
 
-  - [URL](www.joshmccabe.com)
+  - [URL](http://www.joshmccabe.com/)
